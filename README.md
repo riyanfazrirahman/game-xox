@@ -1,6 +1,6 @@
 # game-xox
 
-Sebuah game sederhana XOX (Tic-Tac-Toe) yang dibangun menggunakan [masukkan teknologi yang digunakan, misalnya Kotlin/Java/Android].
+Sebuah game sederhana XOX (Tic-Tac-Toe).
 
 ## Cara Bermain
 
