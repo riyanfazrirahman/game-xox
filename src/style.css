@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100svh;
-  background-color: #3895ff;
+  background-color: #0096d1;
   margin: 0;
 }
 
@@ -57,7 +57,7 @@ body {
   display: none;
   justify-content: center;
   align-items: center;
-  font-size: 60px;
+  font-size: 43px;
   margin: 20px 0;
   background-color: rgba(255, 0, 85, 0.8);
   color: white;
